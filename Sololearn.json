@@ -1,0 +1,10 @@
+[   
+   {
+      "topic" : "opencv",
+      "courseName" : "Intro to opencv",
+      "Difficulty":"Easy",
+      "platform" : "Kailasa Web Services",
+      "courseLink" : "https://www.sololearn.com/course/100-days-of-opencv/",
+      "Modules":"Basic image processing, colour schemes, streching images"
+   }
+]
