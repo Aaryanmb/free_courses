@@ -25,5 +25,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/web-development",
       "Modules":"12"
+   },
+   { 
+      "id": "4",
+      "topic" : "CSS",
+      "courseName" : "Introduction to CSS",
+      "Difficulty": "Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/css-introduction",
+      "Modules":"3" 
    }
 ]
