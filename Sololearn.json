@@ -34,5 +34,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/css-introduction",
       "Modules":"3" 
+   },
+      { 
+      "id": "5",
+      "topic" : "React + Redux",
+      "courseName" : "React + Redux",
+      "Difficulty": "Advanced",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/le-react",
+      "Modules":"3" 
    }
 ]
