@@ -1,4 +1,5 @@
 Find courses from Sololearn which aid in a better noesis of technical topics
+This is for Students of BIT
 How to CONTRIBUTE To this repo?
 
 Search about the topics or domain in which you want to contribute like course topic, provided by, etc
