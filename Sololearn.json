@@ -7,5 +7,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/data-programming",
       "Modules":"6"
+   },
+   {  
+      "id": "2",
+      "topic" : "JavaScript",
+      "courseName" : "Introduction to JavaScript",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/javascript-introduction",
+      "Modules":"5"
    }
 ]
