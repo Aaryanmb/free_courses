@@ -16,5 +16,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/javascript-introduction",
       "Modules":"5"
+   },
+   { 
+      "id": "3",
+      "topic" : "CSS",
+      "courseName" : "Introduction to CSS",
+      "Difficulty": "Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/css-introduction",
+      "Modules":"3" 
    }
 ]
