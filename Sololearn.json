@@ -16,5 +16,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/javascript-introduction",
       "Modules":"5"
-   }
+   },
+   {  
+      "id": "3",
+      "topic" : "Web Development",
+      "courseName" : "Web Development",
+      "Difficulty":"Medium",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/web-development",
+      "Modules":"12"
+   },
 ]
