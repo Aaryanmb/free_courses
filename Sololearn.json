@@ -34,5 +34,15 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/css-introduction",
       "Modules":"3" 
+   },
+   {  
+      "id": "5",
+      "topic" : "Python",
+      "courseName" : "Introduction to Python",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/python-introduction",
+      "Modules":"6"
    }
+   
 ]
