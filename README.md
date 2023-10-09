@@ -1,15 +1,26 @@
-Find courses from Sololearn which aid in a better noesis of technical topics
-This is for Students of BIT
-How to CONTRIBUTE To this repo?
 
-Search about the topics or domain in which you want to contribute like course topic, provided by, etc
 
-Take the reference from below and structure your information similar to that .
+# Coursera courses database
+This comprises of data on courses assisting a noesis on technical subjects
 
-Check whether the course you are providing is active and free.
+### Rules:
+1. ***platform*** name should be in **lowercase**
+2. ***id*** is the number assigned by your mentor
+3. ***module_number*** should be an **integer**
+4. if modules are unavailable, videos, chapters etc can be added
+5. ***free_courses*** - can have either **'yes'** or **'no'** against them
+6. ***certification*** maybe one of three options- **'free'** (for courses with free certifications), **'paid'** (either for *paid courses* or *free courses with paid certifications* ) and **'none'**.
 
-Commit your change and go for creating pull request.
-
-Note1 - Contribution must be done in the given format. Pull request won't be accepted if the format is wrong.
-
-Note2 - Courses that you are providing, must be free and accessible to everyone.
+   
+  ```
+   [
+     {
+       'id' :  1,
+       'platform' : 'coursera',
+       'free_course' : 'yes',
+       'course_name' : 'Basic Python',
+       'link' : 'https://coursera.com/Basic-python',
+       'module_number' : 5,
+       'certification' : 'free'
+     }
+   ]
