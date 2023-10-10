@@ -22,14 +22,23 @@ You can take the reference from below example and structure your information sim
 
    
   ```
-   [
-     {
-       'id' :  1,
-       'platform' : 'coursera',
-       'free_course' : 'yes',
-       'course_name' : 'Basic Python',
-       'link' : 'https://coursera.com/Basic-python',
-       'module_number' : 5,
-       'certification' : 'free'
-     }
-   ]
+  [
+    {
+      "id" :  1,
+      "platform" : "coursera",
+      "free_course" : "yes",
+      "course_name" : "Basic Python",
+      "link" : "https://coursera.com/Basic-python",
+      "module_number" : 6,
+      "certification" : "free"
+    },
+    {
+      "id" :  2,
+      "platform" : "coursera",
+      "free_course" : "yes",
+      "course_name" : "Basic C",
+      "link" : "https://coursera.com/Basic-C",
+      "module_number" : 7,
+      "certification" : "paid"
+    }
+  ]
