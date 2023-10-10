@@ -14,7 +14,8 @@ This comprises of data on courses assisting a noesis on technical subjects
 3. ***module_number*** should be an **integer**
 4. if modules are unavailable, videos, chapters etc can be added
 5. ***free_courses*** - can have either **'yes'** or **'no'** against them
-6. ***certification*** maybe one of three options- **'free'** (for courses with free certifications), **'paid'** (either for *paid courses* or *free courses with paid certifications* ) and **'none'**.
+6. ***certification*** maybe one of three options- **'free'** (for *free courses with free certifications*), **'paid'** (either for *paid courses* or *free courses with paid certifications* ) and **'none'**.
+7. Make sure that the courses you're entering into the database don't already exist there !
 
 ### Reference :
 You can take the reference from below example and structure your information similar to that.
