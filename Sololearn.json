@@ -26,26 +26,8 @@
       "courseLink" : "https://www.sololearn.com/learn/courses/html-introduction",
       "Modules":"4"
    },
-   {
-      "id": "4",
-      "topic" : "C++",
-      "courseName" : "Introduction to C++",
-      "Difficulty": "Easy",
-      "platform" : "Sololearn",
-      "courseLink" : "https://www.sololearn.com/learn/courses/c-plus-plus-introduction",
-      "Modules":"4" 
-   },
-   {
-      "id": "5",
-      "topic" : "Java",
-      "courseName" : "Introduction to Java",
-      "Difficulty": "Easy",
-      "platform" : "Sololearn",
-      "courseLink" : "https://www.sololearn.com/learn/courses/java-introduction",
-      "Modules":"4" 
-   },
    {  
-      "id": "6",
+      "id": "4",
       "topic" : "Web Development",
       "courseName" : "Web Development",
       "Difficulty":"Easy",
@@ -54,7 +36,7 @@
       "Modules":"12"
    },
    { 
-      "id": "7",
+      "id": "5",
       "topic" : "CSS",
       "courseName" : "Introduction to CSS",
       "Difficulty": "Easy",
@@ -63,7 +45,7 @@
       "Modules":"3" 
    },
    {  
-      "id": "8",
+      "id": "6",
       "topic" : "Python",
       "courseName" : "Introduction to Python",
       "Difficulty":"Easy",
