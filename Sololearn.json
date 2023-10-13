@@ -43,5 +43,32 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/java-introduction",
       "Modules":"4" 
-   }
+   },
+   {  
+      "id": "6",
+      "topic" : "Web Development",
+      "courseName" : "Web Development",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/web-development",
+      "Modules":"12"
+   },
+   { 
+      "id": "7",
+      "topic" : "CSS",
+      "courseName" : "Introduction to CSS",
+      "Difficulty": "Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/css-introduction",
+      "Modules":"3" 
+   },
+   {  
+      "id": "8",
+      "topic" : "Python",
+      "courseName" : "Introduction to Python",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/python-introduction",
+      "Modules":"6"
+   } 
 ]
