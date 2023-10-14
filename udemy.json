@@ -7,5 +7,14 @@
     "platform" : "Udemy",
     "courseLink" : "https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022",
     "Modules":12
+    },
+    {
+    "id": 2,
+    "topic" : "git ",
+    "courseName" : "Git and Github",
+    "Difficulty":"Easy",
+    "platform" : "Udemy",
+    "courseLink" : "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/",
+    "Modules":12
     }
 ]
