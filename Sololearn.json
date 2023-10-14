@@ -17,8 +17,17 @@
       "courseLink" : "https://www.sololearn.com/learn/courses/javascript-introduction",
       "Modules":"5"
    },
-   {  
+   {
       "id": "3",
+      "topic" : "HTML",
+      "courseName" : "Introduction to HTML",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/html-introduction",
+      "Modules":"4"
+   },
+   {  
+      "id": "4",
       "topic" : "Web Development",
       "courseName" : "Web Development",
       "Difficulty":"Easy",
@@ -27,7 +36,7 @@
       "Modules":"12"
    },
    { 
-      "id": "4",
+      "id": "5",
       "topic" : "CSS",
       "courseName" : "Introduction to CSS",
       "Difficulty": "Easy",
@@ -36,13 +45,12 @@
       "Modules":"3" 
    },
    {  
-      "id": "5",
+      "id": "6",
       "topic" : "Python",
       "courseName" : "Introduction to Python",
       "Difficulty":"Easy",
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/python-introduction",
       "Modules":"6"
-   }
-   
+   } 
 ]
