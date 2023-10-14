@@ -16,5 +16,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/",
       "Modules":5
+      },
+      {
+      "id": 2,
+      "topic" : "git ",
+      "courseName" : "Git and Github",
+      "Difficulty":"Easy",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/",
+      "Modules":12
       }
 ]
