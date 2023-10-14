@@ -61,5 +61,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/java-introduction",
       "Modules":"4"
+   },
+   {
+      "id": "8",
+      "topic" : "HTML",
+      "courseName" : "Introduction to HTML",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/html-introduction",
+      "Modules":"4"
    }
 ]
