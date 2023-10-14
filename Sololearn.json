@@ -52,5 +52,14 @@
       "platform" : "Sololearn",
       "courseLink" : "https://www.sololearn.com/learn/courses/python-introduction",
       "Modules":"6"
-   } 
+   },
+   {
+      "id": "7",
+      "topic" : "Java",
+      "courseName" : "Introduction to Java",
+      "Difficulty":"Easy",
+      "platform" : "Sololearn",
+      "courseLink" : "https://www.sololearn.com/learn/courses/java-introduction",
+      "Modules":"4"
+   }     
 ]
