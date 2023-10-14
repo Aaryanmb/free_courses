@@ -7,5 +7,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022",
       "Modules":12
+      },
+      {
+      "id": 2,
+      "topic" : "JavaScript",
+      "courseName" : "Introduction to JavaScript ",
+      "Difficulty":"Easy",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/",
+      "Modules":5
       }
 ]
