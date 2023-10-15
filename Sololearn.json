@@ -124,5 +124,32 @@
     "platform": "Sololearn",
     "courseLink": "https://www.sololearn.com/learn/courses/c-intermediate",
     "Modules": "4"
+  },
+  {
+    "id": "15",
+    "topic": "Solidity, Smart Contract",
+    "courseName": "Cryptozombies",
+    "Difficulty": "Intermediate",
+    "platform": "Sololearn",
+    "courseLink": "https://cryptozombies.io/en/solidity",
+    "Modules": "4"
+  },
+  {
+    "id": "16",
+    "topic": "Blockchain Basics",
+    "courseName": "Blockchain Basics",
+    "Difficulty": "Intermediate",
+    "platform": "Sololearn",
+    "courseLink": "https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics",
+    "Modules": "4"
+  },
+  {
+    "id": "17",
+    "topic": "Blockchain Essentials",
+    "courseName": "Blockchain",
+    "Difficulty": "Intermediate",
+    "platform": "Sololearn",
+    "courseLink": "https://cognitiveclass.ai/courses/blockchain-course",
+    "Modules": "4"
   }
 ]
