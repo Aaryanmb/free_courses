@@ -25,5 +25,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/",
       "Modules":12
+      },
+      {
+      "id": 4,
+      "topic" : "Machine Learning",
+      "courseName" : "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+      "Difficulty":"Hard",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/machinelearning/",
+      "Modules":46
       }
 ]
