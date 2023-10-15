@@ -64,11 +64,11 @@
   },
   {
     "id": "8",
-    "topic": "HTML",
-    "courseName": "Introduction to HTML",
-    "Difficulty": "Easy",
+    "topic": "SQL",
+    "courseName": "SQL Intermediate",
+    "Difficulty": "Intermediate",
     "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/html-introduction",
+    "courseLink": "https://www.sololearn.com/learn/courses/sql-intermediate",
     "Modules": "4"
   },
   {
@@ -123,15 +123,6 @@
     "Difficulty": "Intermediate",
     "platform": "Sololearn",
     "courseLink": "https://www.sololearn.com/learn/courses/c-intermediate",
-    "Modules": "4"
-  },
-  {
-    "id": "15",
-    "topic": "SQL",
-    "courseName": "SQL Intermediate",
-    "Difficulty": "Intermediate",
-    "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/sql-intermediate",
     "Modules": "4"
   }
 ]
