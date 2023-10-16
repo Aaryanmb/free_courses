@@ -1,14 +1,5 @@
 [
   {
-    "id": "1",
-    "topic": "data science",
-    "courseName": "Data-programming",
-    "Difficulty": "Easy",
-    "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/data-programming",
-    "Modules": "6"
-  },
-  {
     "id": "2",
     "topic": "JavaScript",
     "courseName": "Introduction to JavaScript",
@@ -64,11 +55,11 @@
   },
   {
     "id": "8",
-    "topic": "HTML",
-    "courseName": "Introduction to HTML",
-    "Difficulty": "Easy",
+    "topic": "SQL",
+    "courseName": "SQL Intermediate",
+    "Difficulty": "Intermediate",
     "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/html-introduction",
+    "courseLink": "https://www.sololearn.com/learn/courses/sql-intermediate",
     "Modules": "4"
   },
   {
@@ -127,11 +118,39 @@
   },
   {
     "id": "15",
-    "topic": "SQL",
-    "courseName": "SQL Intermediate",
+    "topic": "Solidity, Smart Contract",
+    "courseName": "Cryptozombies",
     "Difficulty": "Intermediate",
     "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/sql-intermediate",
+    "courseLink": "https://cryptozombies.io/en/solidity",
     "Modules": "4"
+  },
+  {
+    "id": "16",
+    "topic": "Blockchain Basics",
+    "courseName": "Blockchain Basics",
+    "Difficulty": "Intermediate",
+    "platform": "Sololearn",
+    "courseLink": "https://www.greatlearning.in/academy/learn-for-free/courses/blockchain-basics",
+    "Modules": "4"
+  },
+  {
+    "id": "17",
+    "topic": "Blockchain Essentials",
+    "courseName": "Blockchain",
+    "Difficulty": "Intermediate",
+    "platform": "Sololearn",
+    "courseLink": "https://cognitiveclass.ai/courses/blockchain-course",
+    "Modules": "4"
+  },
+   {
+    "id": "18",
+    "topic": "Technology",
+    "courseName": "Tech for Everyone",
+    "Difficulty": "Easy",
+    "platform": "Sololearn",
+    "courseLink": "https://www.sololearn.com/learn/courses/tech-for-everyone",
+    "Modules": "3"
   }
+  
 ]

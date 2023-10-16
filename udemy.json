@@ -34,5 +34,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/machinelearning/",
       "Modules":46
+      },
+      {
+      "id": 5,
+      "topic" : "JavaScript",
+      "courseName" : "Programming for Entrepreneurs - JavaScript",
+      "Difficulty":"Easy",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/programming-for-entrepreneurs-javascript/",
+      "Modules":4
       }
 ]
