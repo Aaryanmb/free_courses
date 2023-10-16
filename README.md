@@ -2,22 +2,32 @@
 
 **_Refer to CONTRIBUTING.MD for contribution guidelines_**
 
+## Update the list of courses
+
+```bash
+$ cd cli
+$ npm install
+$ npm start
+```
+
+It will then update this README from `Sololearn.json` and `udemy.json`
+
 ## Courses
 
 ### Udemy Courses
 
 | Topic | Course Name | Difficulty | Platform | Course Link | Modules |
-| ----- | ---------- | ---------- | -------- | ---------- | ------- |
+| --- | --- | --- | --- | --- | --- |
 | Java | Java Development | Easy | Udemy | [Java Development](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022) | 12 |
-| JavaScript | Introduction to JavaScript  | Easy | Udemy | [Introduction to JavaScript ](https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/) | 5 |
-| git  | Git and Github | Easy | Udemy | [Git and Github](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) | 12 |
+| JavaScript | Introduction to JavaScript | Easy | Udemy | [Introduction to JavaScript ](https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/) | 5 |
+| git | Git and Github | Easy | Udemy | [Git and Github](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) | 12 |
 | Machine Learning | Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023] | Hard | Udemy | [Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]](https://www.udemy.com/course/machinelearning/) | 46 |
 | JavaScript | Programming for Entrepreneurs - JavaScript | Easy | Udemy | [Programming for Entrepreneurs - JavaScript](https://www.udemy.com/course/programming-for-entrepreneurs-javascript/) | 4 |
 
 ### Sololearn Courses
 
 | Topic | Course Name | Difficulty | Platform | Course Link | Modules |
-| ----- | ---------- | ---------- | -------- | ---------- | ------- |
+| --- | --- | --- | --- | --- | --- |
 | JavaScript | Introduction to JavaScript | Easy | Sololearn | [Introduction to JavaScript](https://www.sololearn.com/learn/courses/javascript-introduction) | 5 |
 | HTML | Introduction to HTML | Easy | Sololearn | [Introduction to HTML](https://www.sololearn.com/learn/courses/html-introduction) | 4 |
 | Web Development | Web Development | Easy | Sololearn | [Web Development](https://www.sololearn.com/learn/courses/web-development) | 12 |
