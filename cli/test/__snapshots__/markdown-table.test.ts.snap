@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Markdown Table > should render a big json data 1`] = `
+"| Id | Name | Username | Email |
+| -- | ---- | -------- | ----- |
+| 1 | Leanne Graham | Bret | example@hello.com |
+| 2 | Ervin Howell | Antonette | hello@world.com |"
+`;

@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Content > should replace content 1`] = `
+"# Hello World
+
+## Courses
+
+- [Course 1](https://example.com)
+- [Course 2](https://example.com)
+- [Course 3](https://example.com)"
+`;
