@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "platform": "coursera",
+    "free_course": "yes",
+    "course_name": "Python for Everybody Specialization",
+    "link": "https://www.coursera.org/specializations/python",
+    "module_number": 5,
+    "certification": "free"
+  }
+]
