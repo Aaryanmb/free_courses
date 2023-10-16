@@ -1,14 +1,5 @@
 [
   {
-    "id": "1",
-    "topic": "data science",
-    "courseName": "Data-programming",
-    "Difficulty": "Easy",
-    "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/data-programming",
-    "Modules": "6"
-  },
-  {
     "id": "2",
     "topic": "JavaScript",
     "courseName": "Introduction to JavaScript",
@@ -151,5 +142,15 @@
     "platform": "Sololearn",
     "courseLink": "https://cognitiveclass.ai/courses/blockchain-course",
     "Modules": "4"
+  },
+   {
+    "id": "18",
+    "topic": "Technology",
+    "courseName": "Tech for Everyone",
+    "Difficulty": "Easy",
+    "platform": "Sololearn",
+    "courseLink": "https://www.sololearn.com/learn/courses/tech-for-everyone",
+    "Modules": "3"
   }
+  
 ]
