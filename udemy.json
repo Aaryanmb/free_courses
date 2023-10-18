@@ -43,5 +43,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/programming-for-entrepreneurs-javascript/",
       "Modules":4
+      },
+      {
+      "id": 6,
+      "topic" : "JavaScript",
+      "courseName" : "Code Your First Game: Arcade Classic in JavaScript on Canvas",
+      "Difficulty":"Medium",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/code-your-first-game/",
+      "Modules":3
       }
 ]
