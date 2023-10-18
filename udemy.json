@@ -52,5 +52,14 @@
       "platform" : "Udemy",
       "courseLink" : "https://www.udemy.com/course/digital-lead-generation/",
       "Modules":"11"
+      },
+       {  
+      "id": "7",
+      "topic" : "JavaScript",
+      "courseName" : "Code Your First Game: Arcade Classic in JavaScript on Canvas",
+      "Difficulty":"Medium",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/code-your-first-game/",
+      "Modules":"3"
       }
 ]
