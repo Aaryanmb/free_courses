@@ -149,8 +149,16 @@
     "courseName": "Tech for Everyone",
     "Difficulty": "Easy",
     "platform": "Sololearn",
-    "courseLink": "https://www.sololearn.com/learn/courses/tech-for-everyone",
+    "courseLink": "https://www.sololearn.com/learn/courses/sql-introduction",
     "Modules": "3"
+   },
+    {
+    "id": "19",
+    "topic": " SQL",
+    "courseName": "Introduction to SQL",
+    "Difficulty": "Easy",
+    "platform": "Sololearn",
+    "courseLink": "https://www.sololearn.com/learn/courses/javascript-introduction",
+    "Modules": "4"
   }
-  
 ]
